@@ -1,1 +1,5 @@
 file2.txt
+file3.txt
+Blacklist, things we dont need, used for things we dont want to keep track off.
+Will be ignored all the files written in the github desktop, local repo. need to create file with same name for it to work.
+
